@@ -5,7 +5,6 @@ This repository contains **hands-on coding exercises** designed to reinforce the
 The goal of this project is to:
 - Translate theoretical AI concepts into **practical implementations**
 - Build **clear, interpretable systems** aligned with healthcare use cases
-- Create a **portfolio-ready repository** suitable for academic review and technical interviews
 
 Each module corresponds to a thematic block of the master’s program and is implemented as a **self-contained project**.
 
@@ -14,6 +13,14 @@ Each module corresponds to a thematic block of the master’s program and is imp
 ## 📂 Repository Structure
 
 Each module lives in its own folder and can be run independently.
+
+```text
+msc-ai-healthcare-exercises/
+├── module-01-rule-based-expert-system/
+├── module-02-...
+├── module-03-...
+└── README.md
+```
 
 ---
 
