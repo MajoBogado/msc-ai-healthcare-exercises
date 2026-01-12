@@ -75,6 +75,9 @@ The system is composed of the following components:
 - **Validation module** (`validator.py`)  
   Verifies system behavior against expected outcomes.
 
+- **Rules loader** (`rules-loader.py`)  
+  Gives the possibility to add new rules.
+
 ---
 
 ## 🔍 Forward vs Backward Reasoning
