@@ -1,0 +1,11 @@
+[
+  {
+    "description": "Very low oxygen saturation",
+    "if_text": "oxygen_saturation < 88",
+    "then_text": "triage=EMERGENCY",
+    "action": "EMERGENCY",
+    "all_of": [
+      { "field": "oxygen_saturation", "op": "<", "value": 88 }
+    ]
+  }
+]
