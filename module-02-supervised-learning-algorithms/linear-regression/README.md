@@ -8,7 +8,7 @@
 4. [Steps Performed](#4-steps-performed)
 5. [How to Run the System](#5-how-to-run-the-system)
 6. [Why Linear Regression Is Appropriate Here](#6-why-linear-regression-is-appropriate-here)
-7. [There was a step 9: Why Step 9 (Raw Patient -> Model) Could Not Be Executed](#7-there-as-a-step-9-why-step-9-raw-patient---model-could-not-be-executed)
+7. [There was a step 9: Why Step 9 (Raw Patient -> Model) Could Not Be Executed](#7-there-was-a-step-9-why-step-9-raw-patient---model-could-not-be-executed)
 8. [How To Implement Step 9 Properly (Future Work)](#8-how-to-implement-step-9-properly-future-work)
 9. [Key Lessons Learned and Conclusions](#9-key-lessons-learned-and-conclusions)
 
@@ -68,12 +68,6 @@ The dataset features are:
 Therefore:
 * Raw units (e.g., age in years, BMI in $kg/m^2) are not available.
 * The dataset is intended for algorithm benchmarking, not direct clinical deployment.
-
-
-This is the scikit-learn Diabetes dataset, commonly used for linear regression.
-
-🔗 Official documentation + description
-https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset
 
 ---
 
