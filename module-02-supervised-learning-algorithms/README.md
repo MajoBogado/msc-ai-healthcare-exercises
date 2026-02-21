@@ -3,7 +3,7 @@
 ## 📑 Table of Contents
 
 1. Linear Regression
-2. Comming Soon
+2. Logistic Regression
 3. Comming Soon
 4. Comming Soon
 5. Comming Soon
