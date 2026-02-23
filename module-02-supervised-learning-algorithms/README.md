@@ -4,7 +4,7 @@
 
 1. Linear Regression
 2. Logistic Regression
-3. Comming Soon
+3. Support Vector Machines (Linear and Kernel (RBF))
 4. Comming Soon
 5. Comming Soon
 6. Comming Soon
