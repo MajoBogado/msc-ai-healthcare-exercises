@@ -6,7 +6,7 @@
 2. Logistic Regression
 3. Support Vector Machines (Linear and Kernel (RBF))
 4. K Nearest Neighbors
-5. Comming Soon
-6. Comming Soon
+5. Decision Tree
+6. Random Forest - Comming Soon
 
 ---
