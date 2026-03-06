@@ -7,6 +7,6 @@
 3. Support Vector Machines (Linear and Kernel (RBF))
 4. K Nearest Neighbors
 5. Decision Tree
-6. Random Forest - Comming Soon
+6. Random Forest
 
 ---

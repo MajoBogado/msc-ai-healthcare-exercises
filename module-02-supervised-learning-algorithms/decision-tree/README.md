@@ -1,4 +1,4 @@
-# 🧪 Support Vector Machines – Supervised Learning
+# 🧪 Decision Tree – Supervised Learning
 
 ## 📑 Table of Contents
 
@@ -7,7 +7,7 @@
 3. [Dataset Used](#3-dataset-used)
 4. [Steps Performed](#4-steps-performed)
 5. [How to Run the System](#5-how-to-run-the-system)
-6. [Why Decision Tree Is Appropriate Here](#6-why-decision/tree-is-appropriate-here)
+6. [Why Decision Tree Is Appropriate Here](#6-why-decision-tree-is-appropriate-here)
 7. [Key Lessons Learned and Conclusions](#7-key-lessons-learned-and-conclusions)
 
 ---
